@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://svcs.ebay.com/services/search/FindingService/v1",
+    "key": "SECURITY-APPNAME=DanielKh-Sandbox-PRD-bcd409a3e-2ce26272",
+    "opName": "OPERATION-NAME=findItemsAdvanced",
+    "opNameS": "OPERATION-NAME=findCompletedItems",
+    "opVersion": "SERVICE-VERSION=1.0.0",
+    "opFormat": "RESPONSE-DATA-FORMAT=JSON",
+    "pagination": "paginationInput.entriesPerPage=100",
+    "siteId": "GLOBAL-ID=EBAY-US",
+    "payload": "REST-PAYLOAD"
+}
