@@ -4,52 +4,40 @@ You should NOT have to modify this file for the assignment!
 
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="shortcut icon" type="image/x-icon" href="pics/icon.png?v=2" />
+    <title>Ɛbay warrior</title>
+    <link rel="stylesheet" href="css/style.css" />
 
-    <title>Spreadsheet Tester</title>
-    <link rel="stylesheet" href="css/style.css"/>
+    <script src="js/app.js" defer></script>
+    <script src="js/result-screen.js" defer></script>
     <script src="js/script.js" defer></script>
-    </script>
 
-  </head>
+</head>
 
-  <body>
-    <section>
-      <h1>Spreadsheet test UI</h1>
-      <fieldset>
-        <form>
-          <p>
-            API Path: <input type="text" id="path-input" value="/api" />
-          </p>
-          <p>
-            Method:
-            <select id="method-input">
-              <option>GET</option>
-              <option>DELETE</option>
-              <option>POST</option>
-              <option>PATCH</option>
-            </select>
-          </p>
-          <p>
-            Body data: <button id="add-button">Add</button>
-            <div id="key-values"></div>
-          </p>
-          <p>
-            Request preview:<br/>
-            <pre id="preview-area" contenteditable readonly></pre>
-          </p>
-          <p>
-            <input type="submit" id="fetch-button" value="Fetch!"/>
-          </p>
-        </form>
-      </fieldset>
-      <section id="results-container" class="hidden">
-        <hr/>
-        <h2>Fetch results:</h2>
-        <pre id="results"></pre>
-      </section>
-    </section>
-  </body>
+<body>
+    <article>
+        <header>
+            <a href="https://github.com/yayinternet/final-project-mdb-volkfox">
+                <div id='logo'> </div>
+            </a>
+
+            <div class='button' id='button1'> New Query </div>
+            <div class='button' id='button2'> Existing Queries </div>
+            <div class='button' id='button3'> </div>
+            <div class='button' id='button4'> Login </div>
+        </header>
+
+        <section>
+            <div id="results">
+                <div id="screen"></div>
+            </div>
+        </section>
+        <footer>CS193X Spring 2017</footer>
+    </article>
+</body>
+
 </html>

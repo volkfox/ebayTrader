@@ -1,3 +1,230 @@
-/**
- * TODO(you): Add the CSS necessary to complete your final project.
- **/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@media all and (max-width: 1024px) {
+    /*styles for narrow desktop browsers and iPad landscape */
+    body {
+        min-width: 1080px;
+    }
+}
+@media all and (max-width: 320px) {
+    /*styles for iPhone/Android portrait*/
+    .myContentPanel {
+        width: 320;
+    }
+}
+article {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+section {
+    flex-grow: 1;
+    background-color: gainsboro;
+    display: flex;
+    z-index: 0;
+}
+body {
+    min-width: 1080px;
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+#screen {
+    background-image: url("../pics/s-l1600.jpg");
+    background-size: cover;
+    position: relative;
+    /*left: 0px;*/
+    /*top: 0px; */
+    width: 100%;
+    height: inherit;
+    display: block;
+    /*display: block; */
+    z-index: 2;
+}
+@keyframes shift {
+    from {
+        opacity: 1;
+        width: 100%;
+    }
+    to {
+        opacity: 0;
+        width: 0%;
+    }
+}
+.animated {
+    animation-name: shift;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+.body-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.body-column {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.removeButton {
+    background-color: coral;
+    color: darkslategray;
+}
+.saveButton {
+    color: darkslategray;
+}
+.deployed {
+    width: 30px;
+}
+.keywords {
+    width: 300px;
+}
+.xPrice {
+    width: 50px;
+}
+.mPrice {
+    width: 30px;
+}
+.name {
+    width: 100px;
+    background-color: antiquewhite;
+    color: darkgray;
+}
+.email {
+    width: 150px;
+}
+.fld {
+    height: 20px;
+    padding: 1px;
+    padding-left: 3px;
+    color: darkslategray;
+}
+#results {
+    position: relative;
+    background-color: aliceblue;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: inherit;
+    z-index: 1;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-family: 'Open Sans', serif;
+    color: darkslategrey;
+    background-color: aqua;
+    height: 50px;
+    z-index: 10;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size: 24px;
+    height: 90px;
+}
+#logo {
+    background-image: url("../pics/logo.png");
+    background-size: cover;
+    width: 90px;
+    height: 90px;
+    cursor: default;
+}
+.button {
+    height: 30px;
+    font-size: 20px;
+    font-family: 'Open Sans', serif;
+    padding: 10px;
+    margin: 20px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    color: darkslategray;
+    border-top-color: white;
+}
+.hidden {
+    display: none;
+}
+#button1:hover {
+    border-top-color: aqua;
+    cursor: default;
+}
+#button2:hover {
+    border-top-color: aqua;
+    cursor: default;
+}
+#button4 {
+    background-color: aqua;
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: default;
+}
+p {
+    margin: 0;
+    font-size: 16px;
+}
+span {
+    color: darkslategray;
+}
+
+/* Hover tooltips */
+
+[data-tip] {
+    position: relative;
+}
+[data-tip]:before {
+    content: '';
+    /* hides the tooltip when not hovered */
+    display: none;
+    content: '';
+    display: none;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #1a1a1a;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    z-index: 8;
+    font-size: 0;
+    line-height: 0;
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+    z-index: 8;
+    font-size: 0;
+    line-height: 0;
+    width: 0;
+    height: 0;
+}
+[data-tip]:after {
+    display: none;
+    content: attr(data-tip);
+    position: absolute;
+    top: 35px;
+    left: 0px;
+    padding: 5px 8px;
+    background: #1a1a1a;
+    color: #fff;
+    z-index: 9;
+    font-size: 0.75em;
+    height: 18px;
+    line-height: 18px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    word-wrap: normal;
+}
+[data-tip]:hover:before,
+[data-tip]:hover:after {
+    display: block;
+}

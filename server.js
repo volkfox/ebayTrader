@@ -8,6 +8,7 @@ const cron = require('node-cron');
 const MongoClient = require('mongodb').MongoClient;
 const ObjectID = require('mongodb').ObjectID;
 const nodemailer = require('nodemailer');
+const path = require('path');
 
 const app = express();
 const jsonParser = bodyParser.json();
@@ -326,5 +327,23 @@ async function onPatch(req, res) {
 }
 
 app.patch('/api/:queryId', jsonParser, onPatch);
+
+// Test HTML route
+async function onTestPath(req, res) {
+    console.log("called test");
+    res.sendFile(path.resolve(__dirname, 'public', 'test.html'));
+}
+app.get('/test', onTestPath);
+
+// Catch route
+// Must be defined after all other routes in order to be a catch-all.
+async function onAllOtherPaths(req, res) {
+    console.log("called index");
+    res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
+
+}
+app.get('/', onAllOtherPaths);
+
+
 // schedule periodic ebay checks
 cron.schedule('* * * * *', checkMarketPlace);
