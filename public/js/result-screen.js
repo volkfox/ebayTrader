@@ -420,9 +420,7 @@ class ResultScreen {
             rowDiv.innerHTML = ''; // clean up prior HTML
         }
 
-        const response = await fetch(url, {
-            mode: 'no-cors'
-        });
+        const response = await fetch(url, {});
         const items = await response.json();
 
 
