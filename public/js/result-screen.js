@@ -1,6 +1,6 @@
 // This class will represent the menu screen 
 
-const url = 'http://127.0.0.1:3000/api';
+const url = '/api';
 
 class ResultScreen {
 
@@ -420,7 +420,9 @@ class ResultScreen {
             rowDiv.innerHTML = ''; // clean up prior HTML
         }
 
-        const response = await fetch(url, {});
+        const response = await fetch(url, {
+            mode: 'no-cors'
+        });
         const items = await response.json();
 
 
