@@ -63,7 +63,7 @@ main();
 
 async function checkMarketPlace() {
 
-    console.log('checking..');
+    console.log('checking marketplace..');
 
     const queries = await getQueries();
 
@@ -80,7 +80,7 @@ async function checkMarketPlace() {
             let list = response["findItemsAdvancedResponse"][0]['searchResult'][0];
 
             let itemNumber = list['@count'];
-            console.log("Items reported in query " + i + ": " + itemNumber);
+            console.log("Items reported in periodic query " + i + ": " + itemNumber);
 
             if (itemNumber != "0") {
                 let items = list['item']; // array of search results
@@ -163,10 +163,13 @@ async function findID(itemID) {
 
 async function ebaySearch(messageBody) {
 
-    if (messageBody['deployed'] === 'true') {
+    console.log('running ebaySearch');
+
+    let queryStatus = messageBody['deployed'];
+
+    if (queryStatus === 'true' || queryStatus === 'completed') {
 
         let keywords = encodeURI(messageBody['keywords']);
-
         let categoryId = '';
         let soldItemsOnly = '';
         let opName = '';
