@@ -29,7 +29,7 @@ async function main() {
     const PAST_ITEMS = 'items';
     const MONGO_URL = `mongodb://localhost:27017/${DATABASE_NAME}`;
     const relayEmail = "msande107@gmail.com";
-    const relayPass = "flawflawofaverages";
+    const relayPass = "flawofaverages";
 
     // The "process.env.MONGODB_URI" is needed to work with Heroku.
     db = await MongoClient.connect(process.env.MONGODB_URI || MONGO_URL);
@@ -63,7 +63,7 @@ main();
 
 async function checkMarketPlace() {
 
-    console.log('checking marketplace..');
+    console.log('checking..');
 
     const queries = await getQueries();
 
@@ -80,7 +80,7 @@ async function checkMarketPlace() {
             let list = response["findItemsAdvancedResponse"][0]['searchResult'][0];
 
             let itemNumber = list['@count'];
-            console.log("Items reported in periodic query " + i + ": " + itemNumber);
+            console.log("Items reported in query " + i + ": " + itemNumber);
 
             if (itemNumber != "0") {
                 let items = list['item']; // array of search results
@@ -163,13 +163,10 @@ async function findID(itemID) {
 
 async function ebaySearch(messageBody) {
 
-    console.log('running ebaySearch');
-
-    let queryStatus = messageBody['deployed'];
-
-    if (queryStatus === 'true' || queryStatus === 'completed') {
+    if (messageBody['deployed'] === 'true') {
 
         let keywords = encodeURI(messageBody['keywords']);
+
         let categoryId = '';
         let soldItemsOnly = '';
         let opName = '';
@@ -200,7 +197,7 @@ async function ebaySearch(messageBody) {
         // assemble ebay query url
         let url = `${ebay.baseUrl}?${ebay.key}&${opName}&${ebay.opVersion}&${ebay.opFormat}&${ebay.payload}&keywords=${keywords}${categoryId}&${listingType}&${minPrice}&${maxPrice}${soldItemsOnly}&${ebay.pagination}&${ebay.siteId}`;
 
-        console.log(url);
+        //console.log(url);
         // ask ebay to return search results
         const response = await fetch(url, {
             mode: 'no-cors'
@@ -332,20 +329,20 @@ async function onPatch(req, res) {
 app.patch('/api/:queryId', jsonParser, onPatch);
 
 // Test HTML route
-async function onTestPath(req, res) {
-    console.log("called test");
-    res.sendFile(path.resolve(__dirname, 'public', 'test.html'));
-}
-app.get('/test', onTestPath);
+//async function onTestPath(req, res) {
+//    console.log("called test");
+//    res.sendFile(path.resolve(__dirname, 'public', 'test.html'));
+//}
+//app.get('/test', onTestPath);
 
 // Catch route
 // Must be defined after all other routes in order to be a catch-all.
 async function onAllOtherPaths(req, res) {
     console.log("called index");
-    res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
-
+    //res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
+    res.sendFile(path.resolve(__dirname, 'public', 'test.html'));
 }
-app.get('/', onAllOtherPaths);
+app.get('*', onAllOtherPaths);
 
 
 // schedule periodic ebay checks
