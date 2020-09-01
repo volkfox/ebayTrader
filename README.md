@@ -1,4 +1,5 @@
-# ebayTrader: MongoDB Backend
+# ebayTrader: Web app for sniping eBay items faster than the built-in timer onsite
+# uses mongoDB, nodeJS
 
 Behavior overview:
 
