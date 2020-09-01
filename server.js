@@ -24,7 +24,7 @@ let transporter = null;
 /* initialize the database and email transport    */
 async function main() {
 
-    const DATABASE_NAME = 'cs193x-db';
+    const DATABASE_NAME = 'ebay-db';
     const COLLECTION = 'queries';
     const PAST_ITEMS = 'items';
     const MONGO_URL = `mongodb://localhost:27017/${DATABASE_NAME}`;

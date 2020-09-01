@@ -1,4 +1,4 @@
-# Final Project: MongoDB Backend
+# ebayTrader: MongoDB Backend
 
 Behavior overview:
 

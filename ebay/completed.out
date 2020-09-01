@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<findCompletedItemsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+  <ack>Success</ack>
+  <version>1.13.0</version>
+  <timestamp>2017-01-30T02:43:11.893Z</timestamp>
+  <searchResult count="35">
+    <item>
+      <itemId>172499795534</itemId>
+      <title>BRAND NEW Apple Macbook Pro 15" MLW72LL/A Retina Silver Touch Bar 2016 256GB</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/m1Moo1nESc92vczOoC2QKcA/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/BRAND-NEW-Apple-Macbook-Pro-15-MLW72LL-A-Retina-Silver-Touch-Bar-2016-256GB-/172499795534</viewItemURL>
+      <productId type="ReferenceID">231062611</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>76039</postalCode>
+      <location>Euless,TX,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>CH</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <shipToLocations>SG</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>true</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2149.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2149.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-25T00:38:22.000Z</startTime>
+        <endTime>2017-01-30T00:38:22.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>132006608464</itemId>
+      <title>2016 Space Grey MacBook Pro MLH32LL/A 15-inch Laptop Touch Bar 2.6GHz 256GB SSD</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>Brand New IN HAND, Ready to Ship, Buy with Confidence!</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/m/metnDvFjwjQnWZkB2zTVs4w/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/2016-Space-Grey-MacBook-Pro-MLH32LL-A-15-inch-Laptop-Touch-Bar-2-6GHz-256GB-SSD-/132006608464</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>19148</postalCode>
+      <location>Philadelphia,PA,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">3169.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">3169.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-17T22:25:49.000Z</startTime>
+        <endTime>2017-01-27T04:15:47.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>401258531055</itemId>
+      <title>Apple 13.3" MacBook Pro w/Touch Bar, Retina, 512GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/04040_0.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-13-3-MacBook-Pro-w-Touch-Bar-Retina-512GB-SSD-Space-Gray-Silver-/401258531055?var=0</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1999.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1999.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-12T19:47:26.000Z</startTime>
+        <endTime>2017-01-26T13:46:16.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>401258531055</itemId>
+      <title>Apple 13.3" MacBook Pro w/Touch Bar, Retina, 512GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs4.ebaystatic.com/pict/401258531055404000000001_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-13-3-MacBook-Pro-w-Touch-Bar-Retina-512GB-SSD-Space-Gray-Silver-/401258531055?var=670871112681</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1999.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1999.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-12T19:47:26.000Z</startTime>
+        <endTime>2017-01-26T13:46:16.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>401258531055</itemId>
+      <title>Apple 13.3" MacBook Pro w/Touch Bar, Retina, 512GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs4.ebaystatic.com/pict/401258531055404000000003_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-13-3-MacBook-Pro-w-Touch-Bar-Retina-512GB-SSD-Space-Gray-Silver-/401258531055?var=670871118850</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1999.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1999.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-12T19:47:26.000Z</startTime>
+        <endTime>2017-01-26T13:46:16.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>252716311317</itemId>
+      <title>Apple 15.4" MacBook Pro w/Touch Bar, Retina, 256GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/04040_0.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-15-4-MacBook-Pro-w-Touch-Bar-Retina-256GB-SSD-Space-Gray-Silver-/252716311317?var=0</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>60622</postalCode>
+      <location>Chicago,IL,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2375.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2375.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-09T05:44:58.000Z</startTime>
+        <endTime>2017-01-24T19:33:20.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>182426484867</itemId>
+      <title>BRAND NEW SEALED Apple Macbook Pro Retina 15" MLH32LL/A 16GB 256GB TOUCH BAR</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs4.ebaystatic.com/m/mPy_xODBY6Uh56F7fpQto2w/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/BRAND-NEW-SEALED-Apple-Macbook-Pro-Retina-15-MLH32LL-A-16GB-256GB-TOUCH-BAR-/182426484867</viewItemURL>
+      <productId type="ReferenceID">231206326</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>76028</postalCode>
+      <location>Burleson,TX,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>CH</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <shipToLocations>SG</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>true</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2145.99</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2145.99</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-18T20:25:54.000Z</startTime>
+        <endTime>2017-01-23T20:25:54.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>332089181510</itemId>
+      <title>NEW 2016 Apple MacBook Pro 13” w/Touch Bar 2.9GHz i5 8GB 256GB (Gray) MLH12LL/A</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1 Year Warranty &amp; Free Office, Final Cut, Logic Pro X</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/mTI9kbYH7lQPvaBJa7YziHA/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/NEW-2016-Apple-MacBook-Pro-13-w-Touch-Bar-2-9GHz-i5-8GB-256GB-Gray-MLH12LL-A-/332089181510</viewItemURL>
+      <productId type="ReferenceID">231143442</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>76111</postalCode>
+      <location>Fort Worth,TX,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>CH</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <shipToLocations>SG</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1899.99</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1899.99</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-11T16:34:45.000Z</startTime>
+        <endTime>2017-01-21T16:34:45.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>112276394385</itemId>
+      <title>Apple 15.4" MacBook Pro with Touch Bar (Late 2016, Space Gray) MLH42LL/A</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs2.ebaystatic.com/m/m8ISjMR7Ta9QQ6OsIjnEnAQ/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-15-4-MacBook-Pro-Touch-Bar-Late-2016-Space-Gray-MLH42LL-A-/112276394385</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>10453</postalCode>
+      <location>Bronx,NY,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2100.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2100.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-20T14:14:16.000Z</startTime>
+        <endTime>2017-01-20T17:01:51.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>401243575208</itemId>
+      <title>Apple 15.4" MacBook Pro w/Touch Bar, Retina, 256GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/04040_0.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-15-4-MacBook-Pro-w-Touch-Bar-Retina-256GB-SSD-Space-Gray-Silver-/401243575208?var=0</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2399.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2399.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-15T21:32:45.000Z</startTime>
+        <endTime>2017-01-19T20:41:59.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>401243575208</itemId>
+      <title>Apple 15.4" MacBook Pro w/Touch Bar, Retina, 256GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/401243575208404000000002_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-15-4-MacBook-Pro-w-Touch-Bar-Retina-256GB-SSD-Space-Gray-Silver-/401243575208?var=670841073639</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2399.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2399.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-15T21:32:45.000Z</startTime>
+        <endTime>2017-01-19T20:41:59.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>292003184597</itemId>
+      <title>Apple MacBook Pro 15.4 2.7ghz i7 16GB 512GB Touch Bar Touchbar MLW82LL/A 2016 15</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs2.ebaystatic.com/m/mRiLVlY242Nb3P6blGFeQOw/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-15-4-2-7ghz-i7-16GB-512GB-Touch-Bar-Touchbar-MLW82LL-A-2016-15-/292003184597</viewItemURL>
+      <productId type="ReferenceID">231206336</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>10018</postalCode>
+      <location>New York,NY,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>CH</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <shipToLocations>SG</shipToLocations>
+        <shipToLocations>NO</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2400.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2400.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>true</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-18T02:07:33.000Z</startTime>
+        <endTime>2017-01-18T03:34:21.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>112273131486</itemId>
+      <title>Apple 15.4" MacBook Pro with Touch Bar (Late 2016, Space Gray) MLH42LL/A</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/m8ISjMR7Ta9QQ6OsIjnEnAQ/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-15-4-MacBook-Pro-Touch-Bar-Late-2016-Space-Gray-MLH42LL-A-/112273131486</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>10453</postalCode>
+      <location>Bronx,NY,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2100.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2100.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-18T02:58:57.000Z</startTime>
+        <endTime>2017-01-18T03:09:52.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>182419815321</itemId>
+      <title>BRAND NEW Apple Macbook Pro 15" MLW72LL/A Retina Silver Touch Bar 2016 256GB</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs2.ebaystatic.com/m/m1Moo1nESc92vczOoC2QKcA/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/BRAND-NEW-Apple-Macbook-Pro-15-MLW72LL-A-Retina-Silver-Touch-Bar-2016-256GB-/182419815321</viewItemURL>
+      <productId type="ReferenceID">231062611</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>76039</postalCode>
+      <location>Euless,TX,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>CH</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <shipToLocations>SG</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>true</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2149.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2149.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-12T22:27:06.000Z</startTime>
+        <endTime>2017-01-17T22:27:06.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>162354698296</itemId>
+      <title>Apple MacBook Pro MLW72LL/A 15.4" Inch 256GB i7 Touch Bar - Silver Newest Model</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/m/m0ozsloIPSbba2UBB407Mqw/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-MLW72LL-A-15-4-Inch-256GB-i7-Touch-Bar-Silver-Newest-Model-/162354698296</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>30144</postalCode>
+      <location>Kennesaw,GA,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2131.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2131.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-11T18:01:25.000Z</startTime>
+        <endTime>2017-01-16T18:01:25.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>401243553420</itemId>
+      <title>Apple 13.3" MacBook Pro w/Touch Bar, Retina, 512GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/04040_0.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-13-3-MacBook-Pro-w-Touch-Bar-Retina-512GB-SSD-Space-Gray-Silver-/401243553420?var=0</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1999.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1999.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-15T20:41:26.000Z</startTime>
+        <endTime>2017-01-12T19:40:01.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>401243553420</itemId>
+      <title>Apple 13.3" MacBook Pro w/Touch Bar, Retina, 512GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/401243553420404000000001_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-13-3-MacBook-Pro-w-Touch-Bar-Retina-512GB-SSD-Space-Gray-Silver-/401243553420?var=670841056048</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1999.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1999.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-15T20:41:26.000Z</startTime>
+        <endTime>2017-01-12T19:40:01.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>401243553420</itemId>
+      <title>Apple 13.3" MacBook Pro w/Touch Bar, Retina, 512GB SSD (Space Gray or Silver)</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1-Year Apple Warranty Included</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/401243553420404000000002_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-13-3-MacBook-Pro-w-Touch-Bar-Retina-512GB-SSD-Space-Gray-Silver-/401243553420?var=670841056049</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>08873</postalCode>
+      <location>Somerset,NJ,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1999.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1999.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-15T20:41:26.000Z</startTime>
+        <endTime>2017-01-12T19:40:01.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>142240671912</itemId>
+      <title>Apple MacBook Pro MNQF2LL/A 13" Laptop with Touch Bar  i5, 512GB, Space Grey</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/1422406719124040_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-MNQF2LL-A-13-Laptop-Touch-Bar-i5-512GB-Space-Grey-/142240671912</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>98047</postalCode>
+      <location>Pacific,WA,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingType>Calculated</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>CA</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <shipToLocations>SG</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>true</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1825.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1825.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-10T16:02:08.000Z</startTime>
+        <endTime>2017-01-12T19:17:49.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>192065664109</itemId>
+      <title>NEW 2016 Apple 15" MacBook Pro Touch Bar Silver 2.6Gz i7 16GB 256GB MLW72LL/A</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs2.ebaystatic.com/m/mqXwbIzGsqeLP0H_vdITUHg/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/NEW-2016-Apple-15-MacBook-Pro-Touch-Bar-Silver-2-6Gz-i7-16GB-256GB-MLW72LL-A-/192065664109</viewItemURL>
+      <productId type="ReferenceID">231062611</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>33304</postalCode>
+      <location>Fort Lauderdale,FL,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>FreePickup</shippingType>
+        <shipToLocations>None</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1980.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1980.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>true</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-30T16:38:57.000Z</startTime>
+        <endTime>2017-01-08T15:06:20.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>112254752414</itemId>
+      <title>Apple MacBook Pro 13 Touch Bar NEW- Sealed Core i7 3.3Ghz–8GB-256GB</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/mFXjqeOJnDW41RSAAj6_SQQ/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-13-Touch-Bar-NEW-Sealed-Core-i7-3-3Ghz-8GB-256GB-/112254752414</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>20877</postalCode>
+      <location>Gaithersburg,MD,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingType>Calculated</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2800.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2800.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>true</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2017-01-01T09:13:12.000Z</startTime>
+        <endTime>2017-01-04T01:12:04.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>302179327755</itemId>
+      <title>Apple MacBook Pro MNQF2LL/A 13" Laptop with Touch Bar  i5, 256GB, Space Grey</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs4.ebaystatic.com/m/mU4SQqJS6prh7j5rn80-bFA/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-MNQF2LL-A-13-Laptop-Touch-Bar-i5-256GB-Space-Grey-/302179327755</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>10704</postalCode>
+      <location>Yonkers,NY,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingType>Calculated</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>3</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1700.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1700.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>true</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-28T13:11:16.000Z</startTime>
+        <endTime>2017-01-01T03:33:30.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>332071288478</itemId>
+      <title>New Sealed 2016 Apple MacBook Pro 15" 2.6Ghz/16Gb/256Gb Touch Bar. Fast shipping</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/mH2WyxAisdiLAZbJeyW9eqg/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/New-Sealed-2016-Apple-MacBook-Pro-15-2-6Ghz-16Gb-256Gb-Touch-Bar-Fast-shipping-/332071288478</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>66224</postalCode>
+      <location>Overland Park,KS,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>true</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2149.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2149.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-23T22:56:03.000Z</startTime>
+        <endTime>2016-12-31T15:39:49.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>162261239940</itemId>
+      <title>Brand New 2016 Apple Macbook Pro 15.4" w/Touch Bar MLW82LL/A 16GB/512GB *SEALED*</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/162261239940404000000001_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Brand-New-2016-Apple-Macbook-Pro-15-4-w-Touch-Bar-MLW82LL-A-16GB-512GB-SEALED-/162261239940?var=461238422751</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>87114</postalCode>
+      <location>Albuquerque,NM,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>Worldwide</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>15</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">3369.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">3369.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-10-30T00:37:06.000Z</startTime>
+        <endTime>2016-12-29T00:37:06.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>112212978589</itemId>
+      <title>Apple MacBook Pro MNQG2LL/A 13-inch Laptop with Touch Bar </title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs2.ebaystatic.com/m/mb5fKCFaxWltdRK1USUwrvg/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-MNQG2LL-A-13-inch-Laptop-Touch-Bar-/112212978589</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>48219</postalCode>
+      <location>Detroit,MI,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2100.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2100.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-22T17:40:07.000Z</startTime>
+        <endTime>2016-12-22T17:40:07.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>182387304822</itemId>
+      <title>LATEST 2016 Apple 15" MacBook Pro 2.6Ghz i7 16GB 256GB MLH32LL/A Touch Bar</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/mTOz-kQYknaT1Nd9XosZ1yQ/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/LATEST-2016-Apple-15-MacBook-Pro-2-6Ghz-i7-16GB-256GB-MLH32LL-A-Touch-Bar-/182387304822</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>29715</postalCode>
+      <location>Fort Mill,SC,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>CH</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <shipToLocations>SG</shipToLocations>
+        <expeditedShipping>false</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2175.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2175.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-12-13T02:45:23.000Z</startTime>
+        <endTime>2016-12-13T15:01:53.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>162261239940</itemId>
+      <title>Brand New 2016 Apple Macbook Pro 15.4" w/Touch Bar MLW82LL/A 16GB/512GB *SEALED*</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/04040_0.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Brand-New-2016-Apple-Macbook-Pro-15-4-w-Touch-Bar-MLW82LL-A-16GB-512GB-SEALED-/162261239940?var=0</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>87114</postalCode>
+      <location>Albuquerque,NM,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>Worldwide</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>15</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">3369.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">3369.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-10-30T00:37:06.000Z</startTime>
+        <endTime>2016-12-13T13:35:55.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>162261239940</itemId>
+      <title>Brand New 2016 Apple Macbook Pro 15.4" w/Touch Bar MLW82LL/A 16GB/512GB *SEALED*</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/pict/162261239940404000000002_1.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Brand-New-2016-Apple-Macbook-Pro-15-4-w-Touch-Bar-MLW82LL-A-16GB-512GB-SEALED-/162261239940?var=461238422752</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>87114</postalCode>
+      <location>Albuquerque,NM,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>Worldwide</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>15</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">3369.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">3369.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-10-30T00:37:06.000Z</startTime>
+        <endTime>2016-12-13T13:35:55.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>true</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>201716737805</itemId>
+      <title>MacBook Pro MLW82LL/A 15-inch Laptop with Touch Bar 2.7GHz Core with 512GB SSD</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs2.ebaystatic.com/m/m4g-UKJSVt-_tY0VupezWZA/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/MacBook-Pro-MLW82LL-A-15-inch-Laptop-Touch-Bar-2-7GHz-Core-512GB-SSD-/201716737805</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>92612</postalCode>
+      <location>Irvine,CA,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">3250.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">3250.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>true</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-12T20:28:27.000Z</startTime>
+        <endTime>2016-12-07T06:52:23.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>142183106216</itemId>
+      <title>2016 Space Gray MacBook Pro MLW82LL/A 15-inch Laptop Touch Bar 2.7GHz 512GB SSD</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>Brand New IN HAND, Ready to Ship, Buy with Confidence!</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/m/mkfq8xKhPltS7djCgyS99qg/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/2016-Space-Gray-MacBook-Pro-MLW82LL-A-15-inch-Laptop-Touch-Bar-2-7GHz-512GB-SSD-/142183106216</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>19148</postalCode>
+      <location>Philadelphia,PA,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">3449.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">3449.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-18T12:52:47.000Z</startTime>
+        <endTime>2016-12-06T06:06:24.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>222331451362</itemId>
+      <title>NEW 2016 Apple 15" MacBook Pro Touch Bar Gray 2.6Gz i7 16GB 256GB MLH32LL/A</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/m_6D4Nys1fM63aEQcV5LgCA/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/NEW-2016-Apple-15-MacBook-Pro-Touch-Bar-Gray-2-6Gz-i7-16GB-256GB-MLH32LL-A-/222331451362</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>32746</postalCode>
+      <location>Lake Mary,FL,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>Worldwide</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2550.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2550.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>true</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-30T22:24:28.000Z</startTime>
+        <endTime>2016-12-05T23:45:43.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>true</topRatedListing>
+    </item>
+    <item>
+      <itemId>232154245360</itemId>
+      <title>NEW 2016 Apple 13" MacBook Pro no Touch Bar Silver 2.0Ghz i5 8GB 256GB MLUQ2LL/A</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1 Year Warranty &amp; Free Office, Aperture, Final Cut Pro</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/m/mfCoR4pZBfBdp4i4G-NdJGw/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/NEW-2016-Apple-13-MacBook-Pro-no-Touch-Bar-Silver-2-0Ghz-i5-8GB-256GB-MLUQ2LL-A-/232154245360</viewItemURL>
+      <productId type="ReferenceID">231290483</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>76111</postalCode>
+      <location>Fort Worth,TX,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">25.0</shippingServiceCost>
+        <shippingType>Flat</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>CA</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>TW</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>true</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1549.99</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1549.99</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-24T18:25:54.000Z</startTime>
+        <endTime>2016-12-04T18:25:54.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>222324553188</itemId>
+      <title>Apple MacBook Pro MLH12LL/A 13-inch 256 GB Laptop with Touch Bar</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs1.ebaystatic.com/m/msgjwcmXXe58qwG7JNLl6BA/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-MLH12LL-A-13-inch-256-GB-Laptop-Touch-Bar-/222324553188</viewItemURL>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>91706</postalCode>
+      <location>Baldwin Park,CA,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>2</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1929.99</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1929.99</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-24T03:45:29.000Z</startTime>
+        <endTime>2016-11-27T04:54:23.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>262719053462</itemId>
+      <title>NEW 2016 Apple 13" MacBook Pro no Touch Bar Silver 2.0Ghz i5 8GB 256GB MLUQ2LL/A</title>
+      <globalId>EBAY-US</globalId>
+      <subtitle>1 Year Warranty &amp; Free Office, Aperture, Final Cut Pro</subtitle>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs3.ebaystatic.com/m/mfCoR4pZBfBdp4i4G-NdJGw/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/NEW-2016-Apple-13-MacBook-Pro-no-Touch-Bar-Silver-2-0Ghz-i5-8GB-256GB-MLUQ2LL-A-/262719053462</viewItemURL>
+      <productId type="ReferenceID">231290483</productId>
+      <paymentMethod>PayPal</paymentMethod>
+      <autoPay>true</autoPay>
+      <postalCode>76111</postalCode>
+      <location>Fort Worth,TX,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <shipToLocations>CA</shipToLocations>
+        <shipToLocations>GB</shipToLocations>
+        <shipToLocations>AU</shipToLocations>
+        <shipToLocations>AT</shipToLocations>
+        <shipToLocations>BE</shipToLocations>
+        <shipToLocations>FR</shipToLocations>
+        <shipToLocations>DE</shipToLocations>
+        <shipToLocations>IT</shipToLocations>
+        <shipToLocations>JP</shipToLocations>
+        <shipToLocations>ES</shipToLocations>
+        <shipToLocations>TW</shipToLocations>
+        <shipToLocations>NL</shipToLocations>
+        <shipToLocations>CN</shipToLocations>
+        <shipToLocations>HK</shipToLocations>
+        <shipToLocations>MX</shipToLocations>
+        <shipToLocations>DK</shipToLocations>
+        <shipToLocations>RO</shipToLocations>
+        <shipToLocations>SK</shipToLocations>
+        <shipToLocations>BG</shipToLocations>
+        <shipToLocations>CZ</shipToLocations>
+        <shipToLocations>FI</shipToLocations>
+        <shipToLocations>HU</shipToLocations>
+        <shipToLocations>LV</shipToLocations>
+        <shipToLocations>LT</shipToLocations>
+        <shipToLocations>MT</shipToLocations>
+        <shipToLocations>EE</shipToLocations>
+        <shipToLocations>GR</shipToLocations>
+        <shipToLocations>PT</shipToLocations>
+        <shipToLocations>CY</shipToLocations>
+        <shipToLocations>SI</shipToLocations>
+        <shipToLocations>SE</shipToLocations>
+        <shipToLocations>KR</shipToLocations>
+        <shipToLocations>ID</shipToLocations>
+        <shipToLocations>ZA</shipToLocations>
+        <shipToLocations>TH</shipToLocations>
+        <shipToLocations>IE</shipToLocations>
+        <shipToLocations>PL</shipToLocations>
+        <shipToLocations>IL</shipToLocations>
+        <shipToLocations>NZ</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>1</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">1499.99</currentPrice>
+        <convertedCurrentPrice currencyId="USD">1499.99</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-11-14T18:20:13.000Z</startTime>
+        <endTime>2016-11-24T18:20:13.000Z</endTime>
+        <listingType>FixedPrice</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>true</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+    <item>
+      <itemId>222212418145</itemId>
+      <title>Apple MacBook Pro MNQF2LLA 13 i5 2.9GHZ 8GB 512GB TOUCH BAR ID SPACE GRAY PAYPAL</title>
+      <globalId>EBAY-US</globalId>
+      <primaryCategory>
+        <categoryId>111422</categoryId>
+        <categoryName>Apple Laptops</categoryName>
+      </primaryCategory>
+      <galleryURL>http://thumbs2.ebaystatic.com/m/mFXjqeOJnDW41RSAAj6_SQQ/140.jpg</galleryURL>
+      <viewItemURL>http://www.ebay.com/itm/Apple-MacBook-Pro-MNQF2LLA-13-i5-2-9GHZ-8GB-512GB-TOUCH-BAR-ID-SPACE-GRAY-PAYPAL-/222212418145</viewItemURL>
+      <paymentMethod>CashOnPickup</paymentMethod>
+      <paymentMethod>VisaMC</paymentMethod>
+      <autoPay>false</autoPay>
+      <postalCode>20004</postalCode>
+      <location>Washington,District Of Columbia,USA</location>
+      <country>US</country>
+      <shippingInfo>
+        <shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+        <shippingType>Free</shippingType>
+        <shipToLocations>US</shipToLocations>
+        <expeditedShipping>true</expeditedShipping>
+        <oneDayShippingAvailable>false</oneDayShippingAvailable>
+        <handlingTime>10</handlingTime>
+      </shippingInfo>
+      <sellingStatus>
+        <currentPrice currencyId="USD">2355.0</currentPrice>
+        <convertedCurrentPrice currencyId="USD">2355.0</convertedCurrentPrice>
+        <sellingState>EndedWithSales</sellingState>
+      </sellingStatus>
+      <listingInfo>
+        <bestOfferEnabled>false</bestOfferEnabled>
+        <buyItNowAvailable>false</buyItNowAvailable>
+        <startTime>2016-08-07T20:57:17.000Z</startTime>
+        <endTime>2016-11-05T20:57:17.000Z</endTime>
+        <listingType>StoreInventory</listingType>
+        <gift>false</gift>
+      </listingInfo>
+      <returnsAccepted>false</returnsAccepted>
+      <condition>
+        <conditionId>1000</conditionId>
+        <conditionDisplayName>New</conditionDisplayName>
+      </condition>
+      <isMultiVariationListing>false</isMultiVariationListing>
+      <topRatedListing>false</topRatedListing>
+    </item>
+  </searchResult>
+  <paginationOutput>
+    <pageNumber>1</pageNumber>
+    <entriesPerPage>99</entriesPerPage>
+    <totalPages>1</totalPages>
+    <totalEntries>35</totalEntries>
+  </paginationOutput>
+</findCompletedItemsResponse>
